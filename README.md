@@ -28,5 +28,7 @@ made available to participants.
 [Slides](#)
 
 ## Tutorials
+
 [Raspberry Pi Tutorials](./raspberrypi)
+
 [Arduino Tutorials](./arduino)
