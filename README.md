@@ -1,6 +1,6 @@
 # MCN 2016 Arduino/Raspberry Pi Workshop
 
-Miriam Langer
+Miriam Langer   
 Jason Alderman 
 
 ## Workshop Description
