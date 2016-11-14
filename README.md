@@ -25,7 +25,7 @@ to take back with them to their museums. All code for the projects will be
 made available to participants.
 
 ## Slides
-[Slides](#)
+[Slides](https://docs.google.com/presentation/d/1RS401AhcS4kqmuIkJyRyVsgNCxsV6TWsQi9ktDvd9yY/edit?usp=sharing)
 
 ## Tutorials
 
