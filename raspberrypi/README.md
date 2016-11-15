@@ -33,3 +33,11 @@ As you can see in PiBakery, blocks can download and run "batch" shell scripts by
 In an earlier iteration of our workshop prep, we made a [batch script](./pi-videolooper-setup.sh) that would do a lot of the PiBakery folder creation and file-juggling setup in one fell swoop _and_ install the [Adafruit Pi Video Looper](https://learn.adafruit.com/raspberry-pi-video-looper/overview). 
 
 You can use it as a cheatsheet if you want to make your own install script—we've left it here for educational purposes—, but it likely will not work in its current form. _(Use at your own risk!)_
+
+## Learning more
+
+If you're learning Python, Codecademy has a wonderful, _free_, interactive course.  
+<https://www.codecademy.com/learn/python>
+
+If you'd like to use other sensors with your Pi, `gpiozero` (the Python library we're using to control the GPIO pins) has excellent documentation, including wiring diagrams and sample code for all sorts of projects.  
+<https://gpiozero.readthedocs.io/en/v1.3.1/recipes.html>
